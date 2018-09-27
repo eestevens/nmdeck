@@ -2,7 +2,9 @@
 Java representation of a playing card deck
 
 Note: Requires at least java 8 
+
 In order to run
+
 from project directory, run "gradlew run" in command prompt (windows), "gradle run" for unix
 
 Options for running:
